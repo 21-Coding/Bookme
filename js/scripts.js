@@ -13,7 +13,7 @@ $(document).ready(function(){
   });
   $(".form-control").submit(function(event){
     var beverage = $("#beverage").val();
-    
+
   })
 
 
