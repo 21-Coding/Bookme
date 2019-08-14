@@ -2,6 +2,12 @@
   display:none;
 
 }
+#hide2{
+  display: none;
+}
+.hide3{
+  display:none;
+}
 h1 {
   animation-duration: 3s;
   animation-name: slidein;
@@ -17,4 +23,8 @@ h1 {
     margin-left: 0%;
     width: 100%;
   }
+}
+.fa-lightbulb {
+  animation-duration: 10s;
+  animation-name: slidein;
 }
